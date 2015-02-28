@@ -2,4 +2,3 @@ WITAJ
 
 Bananowe repo testowe.
 
-:)
